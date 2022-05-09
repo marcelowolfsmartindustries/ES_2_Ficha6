@@ -6,7 +6,6 @@ namespace ES_2_Ficha6
     {
         static void Main(string[] args)
         {
-            
         }
     }
 }
