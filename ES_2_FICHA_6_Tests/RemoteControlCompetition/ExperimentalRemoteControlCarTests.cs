@@ -17,7 +17,7 @@ namespace ES_2_FICHA_6_Tests.RemoteControlCompetition
         public void DistanceTravelled_Tens()
         {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             int expectedDistanceTravelled = 20;

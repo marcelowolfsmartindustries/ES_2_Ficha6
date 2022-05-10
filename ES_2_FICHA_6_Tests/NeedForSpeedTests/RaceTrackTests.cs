@@ -18,7 +18,7 @@ namespace ES_2_FICHA_6_Tests.NeedForSpeedTests
         public void TryFinishTrack_True()
         {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             bool expectedFinish = true;

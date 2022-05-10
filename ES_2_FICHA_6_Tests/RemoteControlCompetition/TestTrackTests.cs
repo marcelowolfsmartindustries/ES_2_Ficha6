@@ -13,7 +13,7 @@ namespace ES_2_FICHA_6_Tests.RemoteControlCompetition
         public void GetRankedCars_Prc2_Prc1()
         {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             List<ProductionRemoteControlCar> expectedRankedCarsSorted = new()

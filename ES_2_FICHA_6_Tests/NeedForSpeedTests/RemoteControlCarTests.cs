@@ -18,7 +18,7 @@ namespace ES_2_FICHA_6_Tests.NeedForSpeedTests
         [Fact]
         public void DistanceDriven_Zero() {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             int expectedDistance = 0;
@@ -34,7 +34,7 @@ namespace ES_2_FICHA_6_Tests.NeedForSpeedTests
         public void DistanceDriven_Twenty()
         {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             int exceptedDistance = _distanceDefault;
@@ -54,7 +54,7 @@ namespace ES_2_FICHA_6_Tests.NeedForSpeedTests
         public void IsBatteryDrained_False()
         {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             bool expectedIsBatteryDrained = false;
@@ -92,7 +92,7 @@ namespace ES_2_FICHA_6_Tests.NeedForSpeedTests
         public void Nitro()
         {
             //A - A -  A
-            //Arrange - Act - Asset
+            //Arrange - Act - Assert
 
             //Arrange
             RemoteControlCar expectedNitro = new RemoteControlCar(50, 4);
